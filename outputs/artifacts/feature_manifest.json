@@ -1,0 +1,31 @@
+{
+  "demographic": [
+    "Age",
+    "Gender",
+    "Ever_Married",
+    "Graduated",
+    "Profession",
+    "Family_Size"
+  ],
+  "psychographic": [
+    "Spending_Score",
+    "Var_1"
+  ],
+  "behavioral": [
+    "Work_Experience"
+  ],
+  "all_features": [
+    "Age",
+    "Gender",
+    "Ever_Married",
+    "Graduated",
+    "Profession",
+    "Family_Size",
+    "Spending_Score",
+    "Var_1",
+    "Work_Experience"
+  ],
+  "excluded_identifiers": [
+    "ID"
+  ]
+}
