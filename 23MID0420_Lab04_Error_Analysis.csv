@@ -1,0 +1,6 @@
+Customer_ID,Actual_Segment,Predicted_Segment,Confidence,Plausible_Root_Cause,Business_Consequence
+463475,B,A,0.5837,High spending score / mature profile incorrectly assigned to budget segment D.,Inappropriate offer strategy or lost revenue due to misclassifying high-value customer into low-tier segment.
+464740,C,A,0.3935,Loyal/affluent profile mislabeled as at-risk or low-engagement segment.,Unnecessary retention intervention cost spent on stable loyal segment.
+464721,B,C,0.6485,"At-risk segment D mislabeled as satisfied segment C, bypassing preventive campaign.",Missed retention opportunity for disengaging customer.
+466080,D,A,0.4494,Promotion-sensitive segment mislabeled as premium organic segment.,Ineffective marketing communication channel allocation.
+459632,D,A,0.373,Distinctive demographic/psychographic profile assigned to mismatched tier.,Suboptimal service experience and brand dissonance.
