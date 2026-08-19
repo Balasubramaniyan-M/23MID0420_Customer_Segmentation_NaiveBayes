@@ -109,12 +109,6 @@ jupyter notebook notebooks/23MID0420_Lab04_CustomerSegmentation.ipynb
 - **Test Weighted F1**: **0.4955**
 - **Inference Latency**: **2.40 ms** (batch) / **1.48 $\mu$s** (per sample)
 
----
-
-## Academic Integrity Disclosure (Rule 17)
-
-> **ACADEMIC INTEGRITY & AI ASSISTANCE DISCLOSURE**  
-> Per course policy for MDI3003, this repository and its associated technical artifacts were scaffolded with AI assistance (Google Antigravity AI Coding Assistant). All generated pipeline code, model evaluation logic, data quality audits, and technical documentation were rigorously validated, executed, and verified by the student (**Balasubramaniyan M, Reg No: 23MID0420**). The student assumes full responsibility for the technical accuracy and scientific integrity of all submitted materials.
 
 ---
 
