@@ -1,0 +1,11 @@
+column,dtype,missing_count,missing_percent,unique_count
+Age,int64,0,0.0,67
+Gender,object,0,0.0,2
+Ever_Married,object,140,1.74,3
+Graduated,object,78,0.97,3
+Profession,object,124,1.54,10
+Family_Size,float64,335,4.15,10
+Spending_Score,object,0,0.0,3
+Var_1,object,76,0.94,8
+Work_Experience,float64,829,10.28,16
+Segmentation,object,0,0.0,4
